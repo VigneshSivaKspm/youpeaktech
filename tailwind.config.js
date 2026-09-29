@@ -14,7 +14,7 @@ export default {
         amberx: { 50: '#fffbeb', 100: '#fef3c7', 500: '#e9a008', 600: '#c77d05' }
       },
       fontFamily: { sans: ['Inter', 'Manrope', 'ui-sans-serif', 'system-ui', 'sans-serif'] },
-      boxShadow: { soft: '0 18px 48px -22px rgba(31,65,114,.3)', card: '0 12px 34px -22px rgba(31,65,114,.25)', color: '0 20px 55px -28px rgba(91,70,210,.4)' }
+      boxShadow: { soft: '0 18px 48px -22px rgba(31,65,114,.3)', card: '0 12px 34px -22px rgba(31,65,114,.25)' }
     }
   },
   plugins: []
